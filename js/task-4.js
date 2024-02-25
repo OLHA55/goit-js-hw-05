@@ -1,6 +1,5 @@
 
 
-
 const clients = [
 	{
     name: "Moore Hensley",
